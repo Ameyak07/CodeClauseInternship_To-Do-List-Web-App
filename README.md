@@ -1,0 +1,1 @@
+Stay organized and boost productivity with this lightweight to-do list web app! Built using HTML, CSS, and JavaScript, it lets you easily add, edit, and delete tasks. Your tasks are saved locally, ensuring quick access without the need for an internet connection. Simple, fast, and effective—perfect for managing daily tasks!
